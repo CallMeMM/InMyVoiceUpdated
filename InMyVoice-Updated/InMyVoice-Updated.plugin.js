@@ -11,17 +11,23 @@
  */
 
 module.exports = (() => {
-    const config = {
+    const config = 
+                {
         "info": {
             "name": "InMyVoice",
             "authors": [
                 {
-                    "name": "Author: arg0NNY | Modded by: CallMeM",
+                    "name": "Author: arg0NNY",
                     "discord_id": '224538553944637440',
                     "github_username": 'arg0NNY'
+                },
+                {
+                    "name": "Modded by: CallMeM",
+                    "discord_id": '762463370338631703',
+                    "github_username": 'CallMeMM'
                 }
             ],
-            "version": "1.1.3",
+            "version": "1.1.3.1",
             "description": "Shows if a person in the text chat is also in a voice chat you're in.",
             github: "https://github.com/CallMeMM/InMyVoiceUpdated/tree/main/InMyVoice-Updated",
             github_raw: "https://raw.githubusercontent.com/CallMeMM/InMyVoiceUpdated/main/InMyVoice-Updated/InMyVoice-Updated.plugin.js"
@@ -37,10 +43,10 @@ module.exports = (() => {
                 ]
             },
             {
-                "type": "fixed",
-                "title": "Bug Fixes",
+                "type": "Bugs",
+                "title": "Known Issue",
                 "items": [
-                    "Fixed a bug where the **text doesn't show**. This will be fixed ASAP."
+                    "Text doesn't show; this will be fixed ASAP."
                 ]
             }
         ],
