@@ -3,7 +3,7 @@
  * @author arg0NNY
  * @authorLink https://github.com/arg0NNY/DiscordPlugins
  * @invite M8DBtcZjXD
- * @version 1.1.3.1
+ * @version 1.0.1
  * @description Shows if a person in the text chat is also in a voice chat you're in.
  * @website https://github.com/CallMeMM/InMyVoiceUpdated/tree/main/InMyVoice-Updated
  * @source https://github.com/CallMeMM/InMyVoiceUpdated/blob/main/InMyVoice-Updated/InMyVoice-Updated.plugin.js
@@ -27,7 +27,7 @@ module.exports = (() => {
                     "github_username": 'CallMeMM'
                 }
             ],
-            "version": "1.1.3.1",
+            "version": "1.0.1",
             "description": "Shows if a person in the text chat is also in a voice chat you're in.",
             github: "https://github.com/CallMeMM/InMyVoiceUpdated/tree/main/InMyVoice-Updated",
             github_raw: "https://raw.githubusercontent.com/CallMeMM/InMyVoiceUpdated/main/InMyVoice-Updated/InMyVoice-Updated.plugin.js"
